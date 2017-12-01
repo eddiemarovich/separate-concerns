@@ -1,0 +1,27 @@
+{
+  "name": "separate-concerns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiemarovich/separate-concerns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiemarovich/separate-concerns/issues"
+  },
+  "homepage": "https://github.com/eddiemarovich/separate-concerns#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
